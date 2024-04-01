@@ -1,2 +1,6 @@
-
-/* Your CSS Code here. */
+/* Write your CSS code here */
+#holder{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
